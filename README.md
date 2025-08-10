@@ -54,7 +54,7 @@ To convert **100 USD to EUR**:
 - Enter `100` in the amount field  
 - Click **Convert**  
 - The converted amount will appear below  
-
+![Thumbnail](https://github.com/user-attachments/assets/7b62250d-53f6-48a7-8d2a-1823d5a32a49)
 ---
 
 ## 🔗 API and Assets
