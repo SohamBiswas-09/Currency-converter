@@ -57,14 +57,6 @@ To convert **100 USD to EUR**:
 
 ---
 
-## 📸 Screenshot
-
-> *(Optional: Add a screenshot of your app UI here)*  
-> You can include a screenshot using:  
-> `![Screenshot](path/to/sc-1.png)`
-
----
-
 ## 🔗 API and Assets
 
 - Exchange Rate Data: [ExchangeRate-API](https://www.exchangerate-api.com/)  
